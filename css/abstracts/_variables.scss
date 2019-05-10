@@ -1,0 +1,35 @@
+// Colors
+$color-primary: #00A5A4;
+$color-primary-drk: #249392;
+$color-primary-lgt: #DBE5E7;
+$color-primary-alt: #C2ECEC;
+
+$color-secondary: #60429D;
+
+$color-gray: #404040;
+$color-gray-drk: #181818;
+$color-gray-drk-2: #141414;
+$color-gray-lgt: #646464;
+$color-gray-lgt-2: #4A4A4A;
+$color-gray-lgt-3: #4B4B4B;
+$color-gray-lgt-4: #979797;
+$color-gray-lgt-5: #4F4F4F;
+$color-gray-lgt-6: #9B9898;
+$color-gray-lgt-7: #3E3D3D;
+$color-gray-lgt-8: #434343;
+
+$color-white: #ffffff;
+$color-white-2: #f7f7f7;
+$color-white-3: #FBFBFB;
+$color-white-4: #EAE0E0;
+$color-white-5: #F4F4F4;
+$color-white-6: #F9F9F9;
+$color-black: #000000;
+
+
+// Typography
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400|Playfair+Display|Roboto:300,400,500,700');
+
+$font-titles: "Playfair Display", "Times New Roman", serif;
+$font-main: "Roboto", "Helvetica", "Arial", sans-serif;
+$font-alt: "Oswald", "Roboto Condensed", "Arial Condensed", sans-serif;
